@@ -21,7 +21,7 @@
  - Speedtest official
 
 ```
-bash <(curl -s https://raw.githubusercontent.com/opiran-club/pf-tun/main/pf-tun.sh --ipv4)
+bash <(curl -s https://raw.githubusercontent.com/MrCjxer/pf-tun/main/pf-tun.sh --ipv4)
 ```
 
 ![con](https://github.com/Azumi67/WGDashboard_Persian/assets/119934376/edd17574-bdb9-4eed-9c1b-64eac3eab189)**Contributors**
